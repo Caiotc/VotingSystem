@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\caio.carvalho\\Documents\\study\\repos\\VotingSystem\\sandbox\\sandbox.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\caio.carvalho\\Documents\\study\\repos\\VotingSystem\\sandbox\\sandbox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caio.carvalho\\Documents\\study\\repos\\VotingSystem\\sandbox\\sandbox.csproj",
+        "projectName": "sandbox",
+        "projectPath": "C:\\Users\\caio.carvalho\\Documents\\study\\repos\\VotingSystem\\sandbox\\sandbox.csproj",
+        "packagesPath": "C:\\Users\\caio.carvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caio.carvalho\\Documents\\study\\repos\\VotingSystem\\sandbox\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caio.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.coxautoinc.com/artifactory/api/nuget/dti-nuget-local": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
