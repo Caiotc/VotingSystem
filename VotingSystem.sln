@@ -7,13 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sandbox", "sandbox\sandbox.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingSystem.Test", "VotingSystem.Test\VotingSystem.Test.csproj", "{EA197904-BE06-4227-8B11-43001D3E9EF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingSystem.EFCore", "VotingSystem.EFCore\VotingSystem.EFCore.csproj", "{6F18FCF6-4404-43B1-9593-C26E9F482D9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingSystem", "VotingSystem\VotingSystem.csproj", "{0FCC2307-743F-49C7-B765-C28B4CE71307}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A561EBF-F61B-4B27-8F1A-06B10923A972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -24,5 +25,16 @@ Global
 		{EA197904-BE06-4227-8B11-43001D3E9EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA197904-BE06-4227-8B11-43001D3E9EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA197904-BE06-4227-8B11-43001D3E9EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F18FCF6-4404-43B1-9593-C26E9F482D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F18FCF6-4404-43B1-9593-C26E9F482D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F18FCF6-4404-43B1-9593-C26E9F482D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F18FCF6-4404-43B1-9593-C26E9F482D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCC2307-743F-49C7-B765-C28B4CE71307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCC2307-743F-49C7-B765-C28B4CE71307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCC2307-743F-49C7-B765-C28B4CE71307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCC2307-743F-49C7-B765-C28B4CE71307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
